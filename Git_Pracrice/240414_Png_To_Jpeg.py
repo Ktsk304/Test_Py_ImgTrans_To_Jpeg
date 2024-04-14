@@ -57,12 +57,3 @@ for tgtVal in arrFiles:
             im.close
 
             os.remove(strTargetPath)
-    
-    
-    
-
-    
-
-        
-
-        
