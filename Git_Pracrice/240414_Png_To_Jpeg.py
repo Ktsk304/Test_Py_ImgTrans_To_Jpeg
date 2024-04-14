@@ -3,7 +3,7 @@ import os
 import pathlib
 from PIL import Image
 
-strFullPath = "D:\\t"
+strFullPath = "D:\\ta"
 
 arrFiles = os.listdir(strFullPath)
 
